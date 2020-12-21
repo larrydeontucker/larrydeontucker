@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [The Simple Budget}
+- 🔭 I’m currently working on [The Simple Budget](https://github.com/liongrin/sandbox)
 - 🌱 I’m currently learning Javascript & JQuery
 
 <!--
